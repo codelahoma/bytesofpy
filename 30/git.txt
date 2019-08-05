@@ -2,17 +2,17 @@
 
 git clone https://github.com/codelahoma/bytesofpy
 cd bytesofpy
-mkdir 4
-cd 4
+mkdir 30
+cd 30
 
 # move the exercise files from the downloaded zipfile into this directory
 # code your solution, make sure pytest is happy :)
 # if so push your code to Github:
 git add .
-git commit -m "submission Bite 4 @ codechalleng.es"
+git commit -m "submission Bite 30 @ codechalleng.es"
 git push
 
-# in order to submit your code head over to https://codechalleng.es/bites/4
+# in order to submit your code head over to https://codechalleng.es/bites/30
 # and hit "Save and Run Tests" using the "Pull your code from the GH repo" checkbox
 # (make sure we asserted the path of your code file!)
 
